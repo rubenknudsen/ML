@@ -1,3 +1,3 @@
-def test:
+def tp:
   print("test")
   
