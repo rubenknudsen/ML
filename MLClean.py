@@ -1,1 +1,3 @@
-M
+def test:
+  print("test")
+  
